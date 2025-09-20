@@ -19,3 +19,27 @@ td {
 .time {
   height: 40px;
 }
+
+.Event{
+    width: 100px;
+}
+
+.purple{
+  background: purple;
+}
+
+.lavender{
+    background: lavender;
+}
+
+.gold{
+    background: gold;
+}
+
+.peach{
+    background: peachpuff;
+}
+
+.life{
+    background: powderblue;
+}
